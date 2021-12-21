@@ -2095,3 +2095,6 @@ using namespace std;
 	
 	return 0;
 }	    
+	    
+	    https://github.com/Juliannnnnnn/Exercises - this is where I submitted all my codes at first :D huhuhhuh
+	    
